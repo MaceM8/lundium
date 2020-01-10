@@ -1,0 +1,16 @@
+{
+	"name": "@lundium/components",
+	"version": "0.0.1",
+	"private": true,
+	"license": "UNLICENSED",
+	"description": "Components",
+	"main": "./src/index.js",
+	"scripts": {},
+	"dependencies": {
+		"enzyme": "^3.11.0",
+		"prop-types": "^15.7.2",
+		"ramda-extension": "^0.10.1",
+		"ramda": "^0.26.1",
+		"react": "^16.12.0"
+	}
+}
